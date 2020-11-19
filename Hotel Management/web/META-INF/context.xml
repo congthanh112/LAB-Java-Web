@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Lab 3">
+  <Resource auth="Container" driverClassname="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="HTBK" password="khoinguyenit15" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=HotelBooking" username="nzwice"/>
+</Context>
